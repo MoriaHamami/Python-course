@@ -2,7 +2,7 @@
 
 ## Assignment Overview
 
-This project is a solution to an assignment from the **Algorithmic Programming B** course by Dr. Eliyahu Chaleschi, focusing on parallel programming and functional programming techniques in Python.
+This project is a solution to an assignment from the **Algorithmic Python Programming** course, focusing on parallel programming and functional programming techniques in Python.
 
 The task involves implementing a `Stream` class that operates in a multi-threaded environment while allowing the use of functional programming paradigms. This implementation is particularly aimed at creating a workflow where data can be processed in a pipeline, with each step operating in parallel.
 
@@ -50,7 +50,7 @@ This design allows users to define a series of operations (a pipeline) before an
    
 3. Ensure Python 3.9.7 or a compatible version is installed.
 
-4. Run the `stream.py` file to test the functionality.
+4. Run the `MainTrain.py` file to test the functionality.
 
 ## Contributing
 
