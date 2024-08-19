@@ -40,7 +40,7 @@ arr = [random.randint(-10, 10) for i in range(1024)]
 print(mx(arr))  # Returns the maximum value in the array
 print(mn(arr))  # Returns the minimum value in the array
 
-```markdown
+```
 ## Question 2: Divide and Conquer - Maximum Area Histogram
 
 ### Task Description
@@ -56,8 +56,7 @@ Here’s an example of how to use the `maxAreaHist` function:
 ```python
 arr = [6, 2, 5, 4, 5, 1, 6]
 print(maxAreaHist(arr))  # Should return 12
-
-```markdown
+```
 ## Conclusion
 
 This project demonstrates the application of functional programming and divide-and-conquer strategies to solve complex problems efficiently. By breaking down problems into smaller sub-problems, we were able to implement solutions with optimal time complexity.
